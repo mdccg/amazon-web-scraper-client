@@ -156,6 +156,7 @@ header form button img {
 }
 
 #results {
+  justify-content: space-between;
   align-items: stretch;
   flex-wrap: wrap;
   display: flex;
@@ -163,7 +164,6 @@ header form button img {
 }
 
 #results li {
-  /* justify-content: space-between; */
   flex-direction: column;
   display: flex;
 
