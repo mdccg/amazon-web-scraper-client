@@ -1,0 +1,14 @@
+:root {
+  --orange: #f7941d;
+  --lynx-white: #f5f6fa;
+  --soothing-breeze: #b2bec3;
+  --american-river: #636e72;
+  --dracula-orchid: #2d3436;
+  --smooth-shadow:
+    2.8px  2.8px  2.2px  rgba(0, 0, 0, .011),
+    6.7px  6.7px  5.3px  rgba(0, 0, 0, .016),
+    12.5px 12.5px 10px   rgba(0, 0, 0, .02),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, .024),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, .029),
+    100px  100px  80px   rgba(0, 0, 0, .04);
+}
