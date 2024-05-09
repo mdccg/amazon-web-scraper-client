@@ -1,4 +1,4 @@
-[&larr; Voltar para a página principal](../../README.md)
+<!-- [&larr; Voltar para a página principal](../../README.md) -->
 
 # Créditos pelas mídias utilizadas
 
